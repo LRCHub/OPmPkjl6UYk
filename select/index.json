@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "イコール (sumika 10th Anniversary Live『Ten to Ten to 10』2023.05.14 at YOKOHAMA STADIUM)",
+  "base_artist": "sumika",
+  "createdAt": "2026-02-27T11:58:54.236600Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イコール",
+      "artist": "田所あずさ",
+      "has_synced": false,
+      "path": "select/01_イコール_田所あずさ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イコール",
+      "artist": "Official HIGE DANdism",
+      "has_synced": false,
+      "path": "select/02_イコール_Official_HIGE_DANdism.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イコール",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/03_イコール_Official髭男dism.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イコール",
+      "artist": "ACIDMAN",
+      "has_synced": true,
+      "path": "select/04_イコール_ACIDMAN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イコール",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/05_イコール_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "イコール",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/06_イコール_sumika.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "イコール",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/07_イコール_sumika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "イコール",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/08_イコール_sumika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イコール",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_イコール_sumika.txt"
+    }
+  ]
+}
